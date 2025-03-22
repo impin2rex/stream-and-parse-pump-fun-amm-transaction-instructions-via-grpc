@@ -43,7 +43,7 @@ npm start
 - `@shyft-to/solana-transaction-parser` for transaction parsing.
 
 ## License
-This project is licensed under the ISC License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 [impin2rex](https://impin2rex.github.io)
