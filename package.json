@@ -1,5 +1,5 @@
 {
-  "name": "get-parsed-transaction-of-pump-fun-amm-from-grpc",
+  "name": "stream-and-parse-pump-fun-amm-transaction-instructions-via-grpc",
   "version": "1.0.0",
   "description": "",
   "main": "index.ts",
