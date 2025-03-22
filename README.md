@@ -9,8 +9,8 @@ This project provides a Node.js service to fetch and parse transactions from Pum
 
 ## Installation
 ```sh
-git clone https://github.com/your-repo/get-parsed-transaction-of-pump-fun-amm-from-grpc.git
-cd get-parsed-transaction-of-pump-fun-amm-from-grpc
+git clone https://github.com/impin2rex/stream-and-parse-pump-fun-amm-transaction-instructions-via-grpc.git
+cd stream-and-parse-pump-fun-amm-transaction-instructions-via-grpc
 npm install
 ```
 
